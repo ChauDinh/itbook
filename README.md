@@ -1,6 +1,4 @@
-# itbook
-
-# A Collection of IT Books 
+# a collection of it books
 
 # General
 * Computer Science, An Overview - J. Glenn Brookshear, Dennis Brylow
