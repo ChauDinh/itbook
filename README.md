@@ -20,7 +20,7 @@
 * Cracking The Tech Career - Gayle Laakmann McDowell
 * Cracking The Coding Interview - Gayle Laakmann McDowell
 * Elements of Programming Interviews - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
-* A Collection of Front End Developer Interview Questions (Vietnamese)
+* A Collection of Front End Developer Interview Questions (Vietnamese) - https://github.com/duyetdev/vietnamese-frontend-interview-questions/blob/master/README.md#h%E1%BB%8Fi-v%E1%BB%81-performance
 
 # Improving Coding Skills
 * Clean Code - Robert C. Martin
