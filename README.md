@@ -3,6 +3,8 @@
 # General
 * Computer Science, An Overview - J. Glenn Brookshear, Dennis Brylow
 * Combinatorial Problems and Exercises - Laszlo Lovasz
+* Computer Science Distilled - Wladston Ferreira Filho
+* The Complete Software Developer's Career Guide - John Sonmez
 
 # Algorithms 
 * Algorithm Design - Jon Kleinberg, Eva Tardos
