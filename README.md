@@ -32,3 +32,21 @@
 * The Pragmatic Programmer - Andrew Hunt, David Thomas
 * Take Control of The Command Line With Terminal - Joe Kissell
 * Exercises For Programmers (57 Challenges) - Brian P. Hogan
+
+# Boyond IT
+* The Design of Everyday Things - Don Norman
+* How Not To Be Wrong - Jordan Ellenberg
+* The Art of Seduction - Robert Greene
+* Game engine black book - Fabien Sanglard
+* Universal Principles of Design - William Lidwell, Kritina Holden, Jill Butler
+* A History of Chess - Yuri Averbakh
+* White Space Is Not Your Enemy - Rebecca Hagen, Kim Golombisky
+* The Structure of Scientific Revolutions - Thomas S. Kuhn
+* Love and Math - Edward Frenkel
+* Don't Make Me Think - Steve Krug
+* The Power of Habit - Charles Duhigg
+* Never Split The Difference - Chris Voss
+* Microbia - Eugenia Bone
+* The Mythical Man-Month - Frederick P. Brooks
+
+Updating ...
