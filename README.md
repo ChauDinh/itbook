@@ -33,7 +33,7 @@
 * Take Control of The Command Line With Terminal - Joe Kissell
 * Exercises For Programmers (57 Challenges) - Brian P. Hogan
 
-# Boyond IT
+# Beyond IT
 * The Design of Everyday Things - Don Norman
 * How Not To Be Wrong - Jordan Ellenberg
 * The Art of Seduction - Robert Greene
